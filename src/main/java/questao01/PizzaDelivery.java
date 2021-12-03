@@ -2,7 +2,7 @@ package questao01;
 
 public class PizzaDelivery {
 
-    public boolean entregasAtrasadas(){
+    public int entregasAtrasadas(){
         if (entregasAtrasadas > 5){
             return quantidadeEntregador = 2;
         }
